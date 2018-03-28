@@ -1,0 +1,9 @@
+C:\Users\MichaelSkaanning\Desktop\fsharp\shareCode\fsharpLibrary\bin\Debug\fsharpLibrary.XML
+C:\Users\MichaelSkaanning\Desktop\fsharp\shareCode\fsharpLibrary\bin\Debug\fsharpLibrary.dll
+C:\Users\MichaelSkaanning\Desktop\fsharp\shareCode\fsharpLibrary\bin\Debug\fsharpLibrary.pdb
+C:\Users\MichaelSkaanning\Desktop\fsharp\shareCode\fsharpLibrary\bin\Debug\FSharp.Core.dll
+C:\Users\MichaelSkaanning\Desktop\fsharp\shareCode\fsharpLibrary\bin\Debug\System.ValueTuple.dll
+C:\Users\MichaelSkaanning\Desktop\fsharp\shareCode\fsharpLibrary\bin\Debug\FSharp.Core.xml
+C:\Users\MichaelSkaanning\Desktop\fsharp\shareCode\fsharpLibrary\obj\Debug\fsharpLibrary.fsprojResolveAssemblyReference.cache
+C:\Users\MichaelSkaanning\Desktop\fsharp\shareCode\fsharpLibrary\obj\Debug\fsharpLibrary.dll
+C:\Users\MichaelSkaanning\Desktop\fsharp\shareCode\fsharpLibrary\obj\Debug\fsharpLibrary.pdb

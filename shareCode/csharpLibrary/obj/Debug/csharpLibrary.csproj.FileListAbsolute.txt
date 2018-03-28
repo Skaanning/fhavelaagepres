@@ -1,0 +1,10 @@
+C:\Users\MichaelSkaanning\Desktop\fsharp\shareCode\csharpLibrary\bin\Debug\csharpLibrary.dll
+C:\Users\MichaelSkaanning\Desktop\fsharp\shareCode\csharpLibrary\bin\Debug\csharpLibrary.pdb
+C:\Users\MichaelSkaanning\Desktop\fsharp\shareCode\csharpLibrary\obj\Debug\csharpLibrary.csprojResolveAssemblyReference.cache
+C:\Users\MichaelSkaanning\Desktop\fsharp\shareCode\csharpLibrary\obj\Debug\csharpLibrary.dll
+C:\Users\MichaelSkaanning\Desktop\fsharp\shareCode\csharpLibrary\obj\Debug\csharpLibrary.pdb
+C:\Users\MichaelSkaanning\Desktop\fsharp\shareCode\csharpLibrary\bin\Debug\fsharpLibrary.dll
+C:\Users\MichaelSkaanning\Desktop\fsharp\shareCode\csharpLibrary\bin\Debug\FSharp.Core.dll
+C:\Users\MichaelSkaanning\Desktop\fsharp\shareCode\csharpLibrary\bin\Debug\fsharpLibrary.pdb
+C:\Users\MichaelSkaanning\Desktop\fsharp\shareCode\csharpLibrary\bin\Debug\fsharpLibrary.xml
+C:\Users\MichaelSkaanning\Desktop\fsharp\shareCode\csharpLibrary\bin\Debug\FSharp.Core.xml
