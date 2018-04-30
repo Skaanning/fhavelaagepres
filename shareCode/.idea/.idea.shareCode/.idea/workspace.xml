@@ -1,53 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="624824fa-b87f-409c-a987-1ca110599ea2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.shareCode/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.shareCode/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.shareCode/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.shareCode/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.shareCode/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.shareCode/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fsharpLibrary/OO.fs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/csharpLib/App.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/csharpLib/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/csharpLib/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/csharpLib/csharpLib.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/csharpLib/obj/Debug/CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/csharpLib/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/csharpLibrary/Class1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/csharpLibrary/Class1.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/csharpLibrary/bin/Debug/FSharp.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/csharpLibrary/bin/Debug/FSharp.Core.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/csharpLibrary/bin/Debug/FSharp.Core.xml" beforeDir="false" afterPath="$PROJECT_DIR$/csharpLibrary/bin/Debug/FSharp.Core.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/csharpLibrary/bin/Debug/csharpLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/csharpLibrary/bin/Debug/csharpLibrary.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/csharpLibrary/bin/Debug/csharpLibrary.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/csharpLibrary/bin/Debug/csharpLibrary.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/csharpLibrary/bin/Debug/fsharpLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/csharpLibrary/bin/Debug/fsharpLibrary.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/csharpLibrary/bin/Debug/fsharpLibrary.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/csharpLibrary/bin/Debug/fsharpLibrary.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/csharpLibrary/obj/Debug/csharpLibrary.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/csharpLibrary/obj/Debug/csharpLibrary.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/csharpLibrary/obj/Debug/csharpLibrary.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/csharpLibrary/obj/Debug/csharpLibrary.csprojResolveAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/csharpLibrary/obj/Debug/csharpLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/csharpLibrary/obj/Debug/csharpLibrary.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/csharpLibrary/obj/Debug/csharpLibrary.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/csharpLibrary/obj/Debug/csharpLibrary.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fsharpLibrary/Library1.fs" beforeDir="false" afterPath="$PROJECT_DIR$/fsharpLibrary/Library1.fs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fsharpLibrary/bin/Debug/FSharp.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/fsharpLibrary/bin/Debug/FSharp.Core.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fsharpLibrary/bin/Debug/FSharp.Core.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fsharpLibrary/bin/Debug/FSharp.Core.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fsharpLibrary/bin/Debug/System.ValueTuple.dll" beforeDir="false" afterPath="$PROJECT_DIR$/fsharpLibrary/bin/Debug/System.ValueTuple.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fsharpLibrary/bin/Debug/fsharpLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/fsharpLibrary/bin/Debug/fsharpLibrary.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fsharpLibrary/bin/Debug/fsharpLibrary.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/fsharpLibrary/bin/Debug/fsharpLibrary.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fsharpLibrary/fsharpLibrary.fsproj" beforeDir="false" afterPath="$PROJECT_DIR$/fsharpLibrary/fsharpLibrary.fsproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fsharpLibrary/obj/Debug/fsharpLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/fsharpLibrary/obj/Debug/fsharpLibrary.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fsharpLibrary/obj/Debug/fsharpLibrary.fsproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/fsharpLibrary/obj/Debug/fsharpLibrary.fsproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fsharpLibrary/obj/Debug/fsharpLibrary.fsprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/fsharpLibrary/obj/Debug/fsharpLibrary.fsprojResolveAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fsharpLibrary/obj/Debug/fsharpLibrary.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/fsharpLibrary/obj/Debug/fsharpLibrary.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/System.ValueTuple.4.3.0/System.ValueTuple.4.3.0.nupkg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/System.ValueTuple.4.3.0/ThirdPartyNotices.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/System.ValueTuple.4.3.0/dotnet_library_license.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/System.ValueTuple.4.3.0/lib/netstandard1.0/.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/System.ValueTuple.4.3.0/lib/netstandard1.0/System.ValueTuple.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/System.ValueTuple.4.3.0/lib/portable-net40+sl4+win8+wp8/.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/System.ValueTuple.4.3.0/lib/portable-net40+sl4+win8+wp8/System.ValueTuple.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/xunit.core.2.1.0/build/dnx451/_._" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/xunit.core.2.1.0/build/monoandroid/_._" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/xunit.core.2.1.0/build/monotouch/_._" beforeDir="false" />
-    </list>
+    <list default="true" id="624824fa-b87f-409c-a987-1ca110599ea2" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,11 +10,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Library1.fs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fsharpLibrary/Library1.fs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
+            <state relative-caret-position="135">
               <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
               <folding>
                 <marker date="1525086906740" expanded="true" signature="53:139" ph=" = ..." />
@@ -86,10 +40,10 @@
       <file leaf-file-name="Class1.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/csharpLibrary/Class1.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
+            <state relative-caret-position="375">
               <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
               <folding>
-                <marker date="1525086902269" expanded="true" signature="6:66" ph="..." />
+                <marker date="1525086902269" expanded="false" signature="6:66" ph="..." />
                 <marker date="1525086902269" expanded="true" signature="91:603" ph="{...}" />
                 <marker date="1525086902269" expanded="true" signature="117:601" ph="{...}" />
                 <marker date="1525086902269" expanded="true" signature="163:324" ph="{...}" />
@@ -190,11 +144,12 @@
       <option name="presentableId" value="Default" />
       <updated>1525084617089</updated>
       <workItem from="1525084619357" duration="2579000" />
+      <workItem from="1525087731277" duration="21000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2579000" />
+    <option name="totallyTimeSpent" value="2600000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -209,27 +164,27 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="7" side_tool="true" visible="true" weight="0.32943678" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32943678" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" visible="true" weight="0.32943678" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.32943678" />
       <window_info anchor="bottom" id="Message" order="0" />
     </layout>
   </component>
@@ -241,16 +196,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TestProject1/Tests.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fsharpLibrary/Library1.fs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="135">
           <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
           <folding>
             <marker date="1525086906740" expanded="true" signature="53:139" ph=" = ..." />
@@ -275,7 +223,44 @@
         <state relative-caret-position="405">
           <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
           <folding>
-            <marker date="1525086902269" expanded="true" signature="6:66" ph="..." />
+            <marker date="1525086902269" expanded="false" signature="6:66" ph="..." />
+            <marker date="1525086902269" expanded="true" signature="91:603" ph="{...}" />
+            <marker date="1525086902269" expanded="true" signature="117:601" ph="{...}" />
+            <marker date="1525086902269" expanded="true" signature="163:324" ph="{...}" />
+            <marker date="1525086902269" expanded="true" signature="364:594" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestProject1/Tests.cs" />
+    <entry file="file://$PROJECT_DIR$/fsharpLibrary/Library1.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <marker date="1525086906740" expanded="true" signature="53:139" ph=" = ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fsharpLibrary/OO.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+          <folding>
+            <marker date="1525086891082" expanded="true" signature="68:202" ph=") = ..." />
+            <marker date="1525086891082" expanded="true" signature="121:202" ph=" = ..." />
+            <marker date="1525086891082" expanded="true" signature="225:393" ph="firstName: string, lastName: string, birthday: DateTime) = ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csharpLibrary/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <marker date="1525086902269" expanded="false" signature="6:66" ph="..." />
             <marker date="1525086902269" expanded="true" signature="91:603" ph="{...}" />
             <marker date="1525086902269" expanded="true" signature="117:601" ph="{...}" />
             <marker date="1525086902269" expanded="true" signature="163:324" ph="{...}" />

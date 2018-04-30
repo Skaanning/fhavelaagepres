@@ -17,11 +17,19 @@ type FizzBuzzSequenceBuilder() =
   member x.Delay(f : unit -> string seq) = f()
 
   member x.Combine(l, r) =
-
     Seq.append (Seq.singleton l) (Seq.singleton r)
 
   member x.Combine(l, r) =
-
     Seq.append (Seq.singleton l) r
 
   member x.For(g, f) = Seq.map f g
+
+
+let FizzBuzz = new FizzBuzzSequenceBuilder()
+
+let result = FizzBuzz { 
+    for x in [1..15] do yield x
+}
+
+
+Seq.toList result
