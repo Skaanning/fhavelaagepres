@@ -1,4 +1,5 @@
 ﻿namespace FsharpLibrary
+open System
 
 module Calculate =
     
@@ -6,4 +7,4 @@ module Calculate =
 
     let mult x y = x * y
 
-    let square x = x * x
+    let square x = mult x x

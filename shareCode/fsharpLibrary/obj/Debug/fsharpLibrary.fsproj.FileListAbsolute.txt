@@ -7,3 +7,12 @@ C:\Users\MichaelSkaanning\Desktop\fsharp\shareCode\fsharpLibrary\bin\Debug\FShar
 C:\Users\MichaelSkaanning\Desktop\fsharp\shareCode\fsharpLibrary\obj\Debug\fsharpLibrary.fsprojResolveAssemblyReference.cache
 C:\Users\MichaelSkaanning\Desktop\fsharp\shareCode\fsharpLibrary\obj\Debug\fsharpLibrary.dll
 C:\Users\MichaelSkaanning\Desktop\fsharp\shareCode\fsharpLibrary\obj\Debug\fsharpLibrary.pdb
+C:\Users\Michael\fprog\fhavelaagepres\shareCode\fsharpLibrary\bin\Debug\fsharpLibrary.XML
+C:\Users\Michael\fprog\fhavelaagepres\shareCode\fsharpLibrary\bin\Debug\fsharpLibrary.dll
+C:\Users\Michael\fprog\fhavelaagepres\shareCode\fsharpLibrary\bin\Debug\fsharpLibrary.pdb
+C:\Users\Michael\fprog\fhavelaagepres\shareCode\fsharpLibrary\bin\Debug\FSharp.Core.dll
+C:\Users\Michael\fprog\fhavelaagepres\shareCode\fsharpLibrary\bin\Debug\System.ValueTuple.dll
+C:\Users\Michael\fprog\fhavelaagepres\shareCode\fsharpLibrary\bin\Debug\FSharp.Core.xml
+C:\Users\Michael\fprog\fhavelaagepres\shareCode\fsharpLibrary\obj\Debug\fsharpLibrary.fsprojResolveAssemblyReference.cache
+C:\Users\Michael\fprog\fhavelaagepres\shareCode\fsharpLibrary\obj\Debug\fsharpLibrary.dll
+C:\Users\Michael\fprog\fhavelaagepres\shareCode\fsharpLibrary\obj\Debug\fsharpLibrary.pdb

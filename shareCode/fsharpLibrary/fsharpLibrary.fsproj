@@ -52,6 +52,7 @@
   <ItemGroup>
     <Compile Include="AssemblyInfo.fs" />
     <Compile Include="Library1.fs" />
+    <Compile Include="OO.fs" />
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
