@@ -38,10 +38,15 @@ let add x y = x + y           // don't use add (x,y)! It means something
 add 2 3                       // Now run the function.
 
 
-// Function composition - Stick two functions together into a new function
-let squareSquared = square << square
+// Partial application (currying)
+// you can partially apply a function by only giving it some of its parameters
+let add5 = add 5 // calling add function with only one param - so add5 is now a one param funcition that adds 5 to the input
 
-squareSquared 3
+
+// Function composition - Stick two functions together into a new function
+let add5ThenSquare = add5 << square
+
+add5ThenSquare 3
 
 // to define a multiline function, just use indents. No semicolons needed.
 let evens list =
@@ -99,15 +104,10 @@ let isAorB x =
 
 
 /////////////////////////////////////////////////////////////////////////////////////////
-/////////////////////////////// Fizz Buzz version 1 /////////////////////////////////////
+/////////////////////////////// Fizz Buzz woooo /////////////////////////////////////
 /////////////////////////////////////////////////////////////////////////////////////////
 let fizzbuzz numbers = 
 // implement me.
-    for number in numbers do
-        if number % 15 = 0 then printfn "FizzBuzz"
-        elif number % 3 = 0 then printfn "Fizz" 
-        elif number % 5 = 0 then printfn  "Buzz"
-        else printfn "%i" number
 
 
 fizzbuzz [1..30] // implement fizzbuzz and run this

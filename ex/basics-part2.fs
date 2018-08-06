@@ -40,8 +40,11 @@ optionPatternMatch invalidValue
 
 
 // Tuple types are pairs, triples, etc. Tuples use commas.
-let twoTuple = 1,2
-let threeTuple = "a",2,true
+let twoTuple = 1, 2 
+
+// often you put parentheses around them
+let threeTuple = ("a", 2, true)
+
 // deconstruct tuple again
 let aString, anInt, aBool = threeTuple 
 
@@ -59,19 +62,31 @@ let whichIsBigger2 aTuple =
     | true -> printfn "First is greater than second"
     | false -> printfn "First is NOT greater than second"
 
+whichIsBigger2 ("hello","bob")
+
+let patternMatchMultiple number =
+    match number * 2, number + 2 with
+    | 4, 2 -> printfn "math is broken"
+    | 2, 3 -> printfn "number was 1"
+    | _ -> printfn "could be anything"
 
 /////////////////////////////////////////////////////////////////////////////////////////
 /////////////////////////////// Fizz Buzz version 2 /////////////////////////////////////
 /////////////////////////////////////////////////////////////////////////////////////////
 
-let fizzbuzz2 numbers = 
+// let fizzbuzz2 numbers = 
 // implement me with patternmatching and tuples
-    for number in numbers do
-        match number % 3, number % 5 with 
-        | 0, 0 -> printfn "FizzBuzz"
-        | 0, _ -> printfn "Fizz"
-        | _, 0 -> printfn "Buzz"
-        | _ -> printfn "%i" number 
 
- 
-fizzbuzz2 [1..30]
+// run this
+// fizzbuzz2 [1..30]
+
+
+
+// quicksort
+let rec quicksort = function
+   | [] -> []                         
+   | first::rest -> 
+        let smaller,larger = List.partition ((>=) first) rest 
+        List.concat [quicksort smaller; [first]; quicksort larger]
+
+quicksort [5;123;52;63;721;1;61;78;34;2;663]

@@ -1,7 +1,10 @@
 
 
-// Record types have named fields. Semicolons are separators.
-type Person = {First:string; Last:string}
+// Record types have named fields. Semicolons or newlines are separators.
+type Person = {
+  First:string
+  Last:string 
+  }
 let person1 = {First="john"; Last="Doe"}
 
 // Union types have choices. Vertical bars are separators.

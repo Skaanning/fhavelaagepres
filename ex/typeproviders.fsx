@@ -1,4 +1,21 @@
+#r @"..\Fsharp.Data\bin\lib\net45\FSharp.Data.dll"
+
 open FSharp.Data
+
+
+let apiUrl = sprintf "http://api.openweathermap.org/data/2.5/weather?q=%s&units=metric&APPID=a942c636b9333edb8f79b79495d800f9"
+type WeatherProvider = JsonProvider<"http://api.openweathermap.org/data/2.5/weather?q=london&units=metric&APPID=a942c636b9333edb8f79b79495d800f9">
+
+let london = WeatherProvider.GetSample()
+
+// try it out
+london.Main.Temp
+london.Wind.Speed
+
+let aarhusUrl = apiUrl "aarhus"
+let aarhus = WeatherProvider.Load(aarhusUrl)
+
+
 
 let url = "https://en.wikipedia.org/wiki/2017_FIA_Formula_One_World_Championship"
 type grandPrix2017 = HtmlProvider<"https://en.wikipedia.org/wiki/2017_FIA_Formula_One_World_Championship">
@@ -18,3 +35,6 @@ type cryptoCurrencies = HtmlProvider<"https://coinmarketcap.com/">
 let current = cryptoCurrencies.Load("https://coinmarketcap.com/").Tables.Currencies.Rows
 
 printf "%A" current
+
+let first = Seq.head current
+first.Name
