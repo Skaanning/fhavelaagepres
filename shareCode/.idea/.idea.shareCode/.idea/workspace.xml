@@ -37,7 +37,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Library1.fs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Library1.fs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fsharpLibrary/Library1.fs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -60,7 +60,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Class1.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Class1.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/csharpLibrary/Class1.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="415">
@@ -94,6 +94,7 @@
         <option value="$PROJECT_DIR$/fsharpLibrary/OO.fs" />
         <option value="$PROJECT_DIR$/fsharpLibrary/Library1.fs" />
         <option value="$PROJECT_DIR$/csharpLibrary/Class1.cs" />
+        <option value="$PROJECT_DIR$/fsharpLibrary/Library1.fs" />
       </list>
     </option>
   </component>
@@ -201,7 +202,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="NuGet" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info active="true" anchor="bottom" id="Build" order="7" sideWeight="0.49947917" visible="true" weight="0.32893497" />
       <window_info anchor="right" id="Database" order="3" />

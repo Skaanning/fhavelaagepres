@@ -3,7 +3,6 @@
 // ======== "Variables" (but not really) ==========
 // The "let" keyword defines an (immutable) value
 let myInt = 5
-open System
 let myFloat = 3.14
 let myString = "hello"  //note that no types needed
 

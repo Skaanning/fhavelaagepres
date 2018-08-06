@@ -24,6 +24,8 @@ let worker = Worker jdoe
 printfn "Printing an int %i, a float %f, a bool %b" 1 2.0 true
 printfn "A string %s, and something generic %A" "hello" [1;2;3;4]
 
+
+let twoTuple = 1,2
 // all complex types have pretty printing built in
 printfn "twoTuple=%A,\nPerson=%A,\nTemp=%A,\nEmployee=%A" 
          twoTuple person1 temp worker
