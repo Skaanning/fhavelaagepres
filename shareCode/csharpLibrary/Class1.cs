@@ -11,6 +11,23 @@ namespace csharpLibrary
             var added = Calculate.add(1, 6);
             var multiply = Calculate.mult(1, 6);
             var squared = Calculate.square(5);
+
+            var maybeString = Calculate.maybeString;
+
+            string result = "";
+            
+            switch (maybeString)
+            {
+                    case Calculate.Maybe<string>.Some someString:
+                        result = someString.Item;
+                        break;
+                    default:
+                        result = null;
+                        break;
+            }
+
+            Calculate.Maybe<string> newSome = Calculate.Maybe<string>.NewSome("ab");
+            Calculate.Maybe<string> newNone = Calculate.Maybe<string>.None;
         }
 
     

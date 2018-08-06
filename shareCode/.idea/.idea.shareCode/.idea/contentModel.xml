@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Michael\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_shareCode.-828847670.00" t="ExcludeRecursive" />
-    <e p="C:\Users\Michael\fprog\fhavelaagepres\shareCode" t="IncludeFlat">
+    <e p="C:\doc\fhavelaagepres\shareCode" t="IncludeFlat">
       <e p="csharpLibrary" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="Class1.cs" t="Include" />
@@ -24,5 +23,6 @@
       <e p="packages" t="ExcludeRecursive" />
       <e p="shareCode.sln" t="IncludeFlat" />
     </e>
+    <e p="C:\Users\msk\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_shareCode.-2108665495.00" t="ExcludeRecursive" />
   </component>
 </project>

@@ -18,3 +18,14 @@ C:\Users\Michael\fprog\fhavelaagepres\shareCode\csharpLibrary\bin\Debug\FSharp.C
 C:\Users\Michael\fprog\fhavelaagepres\shareCode\csharpLibrary\bin\Debug\fsharpLibrary.pdb
 C:\Users\Michael\fprog\fhavelaagepres\shareCode\csharpLibrary\bin\Debug\fsharpLibrary.xml
 C:\Users\Michael\fprog\fhavelaagepres\shareCode\csharpLibrary\bin\Debug\FSharp.Core.xml
+C:\doc\fhavelaagepres\shareCode\csharpLibrary\bin\Debug\csharpLibrary.dll
+C:\doc\fhavelaagepres\shareCode\csharpLibrary\bin\Debug\csharpLibrary.pdb
+C:\doc\fhavelaagepres\shareCode\csharpLibrary\bin\Debug\fsharpLibrary.dll
+C:\doc\fhavelaagepres\shareCode\csharpLibrary\bin\Debug\FSharp.Core.dll
+C:\doc\fhavelaagepres\shareCode\csharpLibrary\bin\Debug\fsharpLibrary.pdb
+C:\doc\fhavelaagepres\shareCode\csharpLibrary\bin\Debug\fsharpLibrary.xml
+C:\doc\fhavelaagepres\shareCode\csharpLibrary\bin\Debug\FSharp.Core.xml
+C:\doc\fhavelaagepres\shareCode\csharpLibrary\obj\Debug\csharpLibrary.csprojResolveAssemblyReference.cache
+C:\doc\fhavelaagepres\shareCode\csharpLibrary\obj\Debug\csharpLibrary.csproj.CoreCompileInputs.cache
+C:\doc\fhavelaagepres\shareCode\csharpLibrary\obj\Debug\csharpLibrary.dll
+C:\doc\fhavelaagepres\shareCode\csharpLibrary\obj\Debug\csharpLibrary.pdb

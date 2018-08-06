@@ -12,9 +12,18 @@ let simplePatternMatch x =
 // try it
 simplePatternMatch "a"
 
+// purely functional loop
+let rec functionalLoop action list = 
+    match list with
+    | [x] -> action x
+    | first::rest -> 
+            action first
+            functionalLoop action rest
+
+// run it
+[1..10] |> functionalLoop (printfn "%i")
+
 // Some(..) and None are roughly analogous to Nullable wrappers
-
-
 let invalidValue = None
 let validValue = Some 6
 

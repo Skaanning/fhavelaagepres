@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="624824fa-b87f-409c-a987-1ca110599ea2" name="Default" comment="" />
+    <list default="true" id="624824fa-b87f-409c-a987-1ca110599ea2" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.shareCode/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.shareCode/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.shareCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.shareCode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csharpLibrary/Class1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/csharpLibrary/Class1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csharpLibrary/bin/Debug/FSharp.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/csharpLibrary/bin/Debug/FSharp.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csharpLibrary/bin/Debug/FSharp.Core.xml" beforeDir="false" afterPath="$PROJECT_DIR$/csharpLibrary/bin/Debug/FSharp.Core.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csharpLibrary/bin/Debug/csharpLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/csharpLibrary/bin/Debug/csharpLibrary.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csharpLibrary/bin/Debug/csharpLibrary.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/csharpLibrary/bin/Debug/csharpLibrary.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csharpLibrary/bin/Debug/fsharpLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/csharpLibrary/bin/Debug/fsharpLibrary.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csharpLibrary/bin/Debug/fsharpLibrary.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/csharpLibrary/bin/Debug/fsharpLibrary.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csharpLibrary/obj/Debug/csharpLibrary.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/csharpLibrary/obj/Debug/csharpLibrary.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csharpLibrary/obj/Debug/csharpLibrary.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/csharpLibrary/obj/Debug/csharpLibrary.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csharpLibrary/obj/Debug/csharpLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/csharpLibrary/obj/Debug/csharpLibrary.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csharpLibrary/obj/Debug/csharpLibrary.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/csharpLibrary/obj/Debug/csharpLibrary.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fsharpLibrary/Library1.fs" beforeDir="false" afterPath="$PROJECT_DIR$/fsharpLibrary/Library1.fs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fsharpLibrary/bin/Debug/FSharp.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/fsharpLibrary/bin/Debug/FSharp.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fsharpLibrary/bin/Debug/FSharp.Core.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fsharpLibrary/bin/Debug/FSharp.Core.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fsharpLibrary/bin/Debug/System.ValueTuple.dll" beforeDir="false" afterPath="$PROJECT_DIR$/fsharpLibrary/bin/Debug/System.ValueTuple.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fsharpLibrary/bin/Debug/fsharpLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/fsharpLibrary/bin/Debug/fsharpLibrary.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fsharpLibrary/bin/Debug/fsharpLibrary.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/fsharpLibrary/bin/Debug/fsharpLibrary.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fsharpLibrary/obj/Debug/FSharp.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/fsharpLibrary/obj/Debug/FSharp.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fsharpLibrary/obj/Debug/fsharpLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/fsharpLibrary/obj/Debug/fsharpLibrary.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fsharpLibrary/obj/Debug/fsharpLibrary.fsproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/fsharpLibrary/obj/Debug/fsharpLibrary.fsproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fsharpLibrary/obj/Debug/fsharpLibrary.fsprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/fsharpLibrary/obj/Debug/fsharpLibrary.fsprojResolveAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fsharpLibrary/obj/Debug/fsharpLibrary.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/fsharpLibrary/obj/Debug/fsharpLibrary.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fsharpLibrary/obj/fsac.cache" beforeDir="false" afterPath="$PROJECT_DIR$/fsharpLibrary/obj/fsac.cache" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,10 +40,12 @@
       <file leaf-file-name="Library1.fs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fsharpLibrary/Library1.fs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+            <state relative-caret-position="255">
+              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
               <folding>
-                <marker date="1525086906740" expanded="true" signature="53:139" ph=" = ..." />
+                <marker date="1533570555532" expanded="true" signature="53:260" ph=" = ..." />
+                <marker date="1533570555532" expanded="true" signature="159:206" ph=" =  ..." />
+                <marker date="1533570555532" expanded="true" signature="175:206" ph="| Some of 't ..." />
               </folding>
             </state>
           </provider>
@@ -26,13 +54,8 @@
       <file leaf-file-name="OO.fs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fsharpLibrary/OO.fs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
+            <state relative-caret-position="238">
               <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-              <folding>
-                <marker date="1525086891082" expanded="true" signature="68:202" ph=") = ..." />
-                <marker date="1525086891082" expanded="true" signature="121:202" ph=" = ..." />
-                <marker date="1525086891082" expanded="true" signature="225:393" ph="firstName: string, lastName: string, birthday: DateTime) = ..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -40,14 +63,15 @@
       <file leaf-file-name="Class1.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/csharpLibrary/Class1.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="415">
+              <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
               <folding>
-                <marker date="1525086902269" expanded="false" signature="6:66" ph="..." />
-                <marker date="1525086902269" expanded="true" signature="91:603" ph="{...}" />
-                <marker date="1525086902269" expanded="true" signature="117:601" ph="{...}" />
-                <marker date="1525086902269" expanded="true" signature="163:324" ph="{...}" />
-                <marker date="1525086902269" expanded="true" signature="364:594" ph="{...}" />
+                <marker date="1533570997052" expanded="true" signature="6:66" ph="..." />
+                <marker date="1533570997052" expanded="true" signature="91:1172" ph="{...}" />
+                <marker date="1533570997052" expanded="true" signature="117:1170" ph="{...}" />
+                <marker date="1533570997052" expanded="true" signature="163:893" ph="{...}" />
+                <marker date="1533570997052" expanded="true" signature="447:721" ph="{...}" />
+                <marker date="1533570997052" expanded="true" signature="933:1163" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -59,16 +83,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/csharpLibrary/Class1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/fsharpLibrary/Library1.fs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/fsharpLibrary/OO.fs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/csharpLibrary/Class1.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/TestProject1/Tests.cs" />
-        <option value="$PROJECT_DIR$/fsharpLibrary/Library1.fs" />
         <option value="$PROJECT_DIR$/fsharpLibrary/OO.fs" />
+        <option value="$PROJECT_DIR$/fsharpLibrary/Library1.fs" />
         <option value="$PROJECT_DIR$/csharpLibrary/Class1.cs" />
       </list>
     </option>
@@ -78,6 +102,9 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
@@ -145,11 +172,12 @@
       <updated>1525084617089</updated>
       <workItem from="1525084619357" duration="2579000" />
       <workItem from="1525087731277" duration="21000" />
+      <workItem from="1533570439310" duration="1238000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2600000" />
+    <option name="totallyTimeSpent" value="3838000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -161,11 +189,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="7" side_tool="true" visible="true" weight="0.32943678" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5005208" side_tool="true" visible="true" weight="0.32893497" />
       <window_info anchor="bottom" id="Unit Tests" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32943678" />
@@ -174,6 +203,7 @@
       <window_info anchor="bottom" id="NuGet" order="7" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Build" order="7" sideWeight="0.49947917" visible="true" weight="0.32893497" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -182,10 +212,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.32943678" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,10 +227,46 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/fsharpLibrary/Library1.fs">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <marker date="1533570555532" expanded="true" signature="53:260" ph=" = ..." />
+            <marker date="1533570555532" expanded="true" signature="159:206" ph=" =  ..." />
+            <marker date="1533570555532" expanded="true" signature="175:206" ph="| Some of 't ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fsharpLibrary/OO.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csharpLibrary/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <marker date="1533570997052" expanded="true" signature="6:66" ph="..." />
+            <marker date="1533570997052" expanded="true" signature="91:1172" ph="{...}" />
+            <marker date="1533570997052" expanded="true" signature="117:1170" ph="{...}" />
+            <marker date="1533570997052" expanded="true" signature="163:893" ph="{...}" />
+            <marker date="1533570997052" expanded="true" signature="447:721" ph="{...}" />
+            <marker date="1533570997052" expanded="true" signature="933:1163" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fsharpLibrary/Library1.fs">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
           <folding>
-            <marker date="1525086906740" expanded="true" signature="53:139" ph=" = ..." />
+            <marker date="1533570555532" expanded="true" signature="53:260" ph=" = ..." />
+            <marker date="1533570555532" expanded="true" signature="159:206" ph=" =  ..." />
+            <marker date="1533570555532" expanded="true" signature="175:206" ph="| Some of 't ..." />
           </folding>
         </state>
       </provider>
@@ -210,11 +275,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-          <folding>
-            <marker date="1525086891082" expanded="true" signature="68:202" ph=") = ..." />
-            <marker date="1525086891082" expanded="true" signature="121:202" ph=" = ..." />
-            <marker date="1525086891082" expanded="true" signature="225:393" ph="firstName: string, lastName: string, birthday: DateTime) = ..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -223,48 +283,47 @@
         <state relative-caret-position="405">
           <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
           <folding>
-            <marker date="1525086902269" expanded="false" signature="6:66" ph="..." />
-            <marker date="1525086902269" expanded="true" signature="91:603" ph="{...}" />
-            <marker date="1525086902269" expanded="true" signature="117:601" ph="{...}" />
-            <marker date="1525086902269" expanded="true" signature="163:324" ph="{...}" />
-            <marker date="1525086902269" expanded="true" signature="364:594" ph="{...}" />
+            <marker date="1533570997052" expanded="true" signature="6:66" ph="..." />
+            <marker date="1533570997052" expanded="true" signature="91:1172" ph="{...}" />
+            <marker date="1533570997052" expanded="true" signature="117:1170" ph="{...}" />
+            <marker date="1533570997052" expanded="true" signature="163:893" ph="{...}" />
+            <marker date="1533570997052" expanded="true" signature="447:721" ph="{...}" />
+            <marker date="1533570997052" expanded="true" signature="933:1163" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TestProject1/Tests.cs" />
-    <entry file="file://$PROJECT_DIR$/fsharpLibrary/Library1.fs">
+    <entry file="file://$PROJECT_DIR$/fsharpLibrary/OO.fs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding>
-            <marker date="1525086906740" expanded="true" signature="53:139" ph=" = ..." />
-          </folding>
+        <state relative-caret-position="238">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fsharpLibrary/OO.fs">
+    <entry file="file://$PROJECT_DIR$/fsharpLibrary/Library1.fs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        <state relative-caret-position="255">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
           <folding>
-            <marker date="1525086891082" expanded="true" signature="68:202" ph=") = ..." />
-            <marker date="1525086891082" expanded="true" signature="121:202" ph=" = ..." />
-            <marker date="1525086891082" expanded="true" signature="225:393" ph="firstName: string, lastName: string, birthday: DateTime) = ..." />
+            <marker date="1533570555532" expanded="true" signature="53:260" ph=" = ..." />
+            <marker date="1533570555532" expanded="true" signature="159:206" ph=" =  ..." />
+            <marker date="1533570555532" expanded="true" signature="175:206" ph="| Some of 't ..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/csharpLibrary/Class1.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="415">
+          <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
           <folding>
-            <marker date="1525086902269" expanded="false" signature="6:66" ph="..." />
-            <marker date="1525086902269" expanded="true" signature="91:603" ph="{...}" />
-            <marker date="1525086902269" expanded="true" signature="117:601" ph="{...}" />
-            <marker date="1525086902269" expanded="true" signature="163:324" ph="{...}" />
-            <marker date="1525086902269" expanded="true" signature="364:594" ph="{...}" />
+            <marker date="1533570997052" expanded="true" signature="6:66" ph="..." />
+            <marker date="1533570997052" expanded="true" signature="91:1172" ph="{...}" />
+            <marker date="1533570997052" expanded="true" signature="117:1170" ph="{...}" />
+            <marker date="1533570997052" expanded="true" signature="163:893" ph="{...}" />
+            <marker date="1533570997052" expanded="true" signature="447:721" ph="{...}" />
+            <marker date="1533570997052" expanded="true" signature="933:1163" ph="{...}" />
           </folding>
         </state>
       </provider>
