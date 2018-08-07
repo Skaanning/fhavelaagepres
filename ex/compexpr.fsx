@@ -4,14 +4,15 @@ let divideBy bot top = // revesered param order of what you would expect.. Makes
   | 0 -> None
   | _ -> Some(top / bot)
 
-// infix version
+let number = divideBy 5 10
+let number1 = 10 |> divideBy 0 
+
+// infix safe divsion operator
 let (=/) top bot = 
   match bot with
   | 0 -> None
   | _ -> Some(top / bot)
 
-let number = divideBy 5 10
-let number1 = 10 |> divideBy 0 
 let number2 = 10 =/ 5
 let number3 = 10 =/ 0
 
@@ -38,7 +39,9 @@ type OptionBuilder() =
     member this.Bind(m, f) = 
         printfn "Binding..."
         match m with
-        | None -> None
+        | None -> 
+            printfn "got a None, so skipping rest" 
+            None
         | Some x -> f x
     member this.Return(x) = 
         printfn "Wrapping a raw value into an option"
@@ -50,7 +53,7 @@ type OptionBuilder() =
 let option = new OptionBuilder()
 let someValue = 
   option {
-    let! x = 24 |> divideBy 2
+    let! x = 24 |> divideBy 0
     let! y = x |> divideBy 2 
     let! z = y |> divideBy 3 
 
