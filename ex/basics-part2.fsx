@@ -12,6 +12,15 @@ let simplePatternMatch x =
 // try it
 simplePatternMatch "a"
 
+// You can do a shorthand for patter matching
+// this is exactly the same as above. 
+// Notice you lose the reference to the input param. So if you need that dont do this
+let simpleShorthandPatternMatch = function
+    | "a" -> printfn "x is a"
+    | "b" -> printfn "x is b"
+    | _ -> printfn "x is something else"   // underscore matches anything
+
+
 // purely functional loop
 let rec functionalLoop action list = 
     match list with

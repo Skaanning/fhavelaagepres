@@ -18,35 +18,28 @@ let parseInstructions (s:string) =
     s.ToCharArray() 
         |> Seq.map toInstruction 
 
-let turnLeft robot =
-    match robot.Direction with
-    | North -> {robot with Direction = West}
-    | East -> {robot with Direction = North}
-    | South -> {robot with Direction = East}
-    | West -> {robot with Direction = South}
+let turnLeft = function
+    | North -> West
+    | East -> North
+    | South -> East
+    | West -> South
 
-let turnRight robot = 
-    match robot.Direction with
-    | North -> {robot with Direction = East}
-    | East -> {robot with Direction = South}
-    | South -> {robot with Direction = West}
-    | West -> {robot with Direction = North}
+let turnRight = turnLeft << turnLeft << turnLeft
 
 let advance robot =
     let x, y = robot.Position
     match robot.Direction with
-    | North -> {robot with Position = x, y + 1}
-    | East -> {robot with Position = x + 1, y}
-    | South -> {robot with Position = x, y - 1}
-    | West -> {robot with Position = x - 1, y}
+    | North -> {robot with Position = x, y+1}
+    | East -> {robot with Position = x+1, y}
+    | South -> {robot with Position = x, y-1}
+    | West -> {robot with Position = x-1, y}
 
 // Robot -> Instruction -> Robot
 let execute robot instruction = 
     match instruction with
-    | L -> turnLeft robot
-    | R -> turnRight robot
+    | L -> {robot with Direction = turnLeft robot.Direction} 
+    | R -> {robot with Direction = turnRight robot.Direction} 
     | A -> advance robot
-
 
 // Run the whole Shabang
 
