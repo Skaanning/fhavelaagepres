@@ -4,14 +4,14 @@
 //type Robot = ....
 //type Instruction = ....
 
-// Robot -> Robot
+// Direction -> Direction
 // turnLeft  ...
 
-// Robot -> Robot
+// Direction -> Direction
 // turnRight ...
 
 // Robot -> Robot
-// advance  
+// advance ...
 
 // Robot -> Instruction -> Robot
 // execute 
