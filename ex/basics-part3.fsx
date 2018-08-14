@@ -4,6 +4,7 @@
 type Person = {
     First:string
     Last:string }
+
 let john = {   
     First="john" 
     Last="Doe" }
@@ -36,9 +37,10 @@ let myFunction x =
 // E.g. here is a union type that contains a list of the same type:
 type Employee = 
   | Worker of Person
-  | Manager of Employee list
+  | Manager of Name: string * Employees: Employee list
 let jdoe = {First="John";Last="Doe"}
 let worker = Worker jdoe
+let manager = Manager ("Bob", [worker])
 
 // ========= Printing =========
 // The printf/printfn functions are similar to the
@@ -54,3 +56,5 @@ printfn "twoTuple=%A,\nPerson=%A,\nTemp=%A,\nEmployee=%A"
 
 // There are also sprintf/sprintfn functions for formatting data
 // into a string, similar to String.Format.
+
+
